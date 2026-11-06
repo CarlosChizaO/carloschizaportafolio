@@ -96686,7 +96686,7 @@ this.av()},
 F(a){return this.a.c}}
 A.RS.prototype={
 F(a){var s=null,r=A.uR(B.ai,s,!1),q=r.ax.azF(B.im,B.qc),p=r.ok.axC(B.a2,B.a2,"Tahoma")
-return new A.EY(B.OK,"Flutter XP",r.azs(B.Gg,q,B.OX,B.y,B.y,new A.u0(B.iq,new A.db(A.cc(2),B.pt),s,4,s,B.y,B.v,s,s,s,s,s,s),B.im,B.im,B.IH,p,A.b0q(s,new A.aA(B.Nf,s,A.cS(B.M0,1),A.cc(2),s,s,B.t),s,s,s,s,s,s,B.v.mJ(11.5),s,B.dD)),!1,s)}}
+return new A.EY(B.OK,"Portafolio | Carlos Chiza",r.azs(B.Gg,q,B.OX,B.y,B.y,new A.u0(B.iq,new A.db(A.cc(2),B.pt),s,4,s,B.y,B.v,s,s,s,s,s,s),B.im,B.im,B.IH,p,A.b0q(s,new A.aA(B.Nf,s,A.cS(B.M0,1),A.cc(2),s,s,B.t),s,s,s,s,s,s,B.v.mJ(11.5),s,B.dD)),!1,s)}}
 A.dJ.prototype={
 R(){return new A.a65()}}
 A.a65.prototype={
